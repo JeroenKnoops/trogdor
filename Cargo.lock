@@ -1146,7 +1146,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "trogdor-new"
+name = "trogdor"
 version = "0.1.0"
 dependencies = [
  "rltk",
