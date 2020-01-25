@@ -1165,9 +1165,9 @@ checksum = "e734e891f5b408a29efbf8309e656876276f49ab6a6ac208600b4419bd893d90"
 
 [[package]]
 name = "rltk"
-version = "0.5.17"
+version = "0.6.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ab5d596e5b1d4da4928b86588b543109914642c63fe5bf2ae9758fd703c86860"
+checksum = "ae4901dea894fea75a6193e0e5140a18ec68a904214ce89c25664917fe392da5"
 dependencies = [
  "byteorder",
  "flate2",
