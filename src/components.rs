@@ -1,7 +1,7 @@
 extern crate specs;
 use specs::prelude::*;
-extern crate specs_derive;
 extern crate rltk;
+extern crate specs_derive;
 use rltk::RGB;
 
 #[derive(Component)]
@@ -22,7 +22,7 @@ pub struct Player {}
 
 #[derive(Component)]
 pub struct Viewshed {
-    pub visible_tiles : Vec<rltk::Point>,
-    pub range : i32,
-    pub dirty : bool,
+    pub visible_tiles: Vec<rltk::Point>,
+    pub range: i32,
+    pub dirty: bool,
 }
