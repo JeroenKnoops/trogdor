@@ -1,6 +1,6 @@
 extern crate specs;
-use super::{Map, Player, Position, Viewshed};
 use specs::prelude::*;
+use super::{Map, Player, Position, Viewshed};
 extern crate rltk;
 use rltk::{field_of_view, Point};
 
