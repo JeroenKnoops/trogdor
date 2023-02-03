@@ -12,4 +12,3 @@ cargo run
 
 MIT
 
-This is a test
